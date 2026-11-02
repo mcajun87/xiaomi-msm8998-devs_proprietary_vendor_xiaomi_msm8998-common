@@ -1,4 +1,4 @@
-name: Rocky7842_proprietary_vendor_samsung_exynos9820-common
+name: xiaomi-msm8998-devs_proprietary_vendor_xiaomi_msm8998-common
 
 permissions:
   contents: write
